@@ -11593,7 +11593,7 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "libhidlbase",
                 "libhidltransport",
-                "libutils",
+                "libutils-v32",
                 "libcutils",
                 "liblog",
                 "libfmq",
@@ -11631,7 +11631,7 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "libhidlbase",
                 "libhidltransport",
-                "libutils",
+                "libutils-v32",
                 "libcutils",
                 "liblog",
                 "libfmq",
@@ -11671,7 +11671,7 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "libhidlbase",
                 "libhidltransport",
-                "libutils",
+                "libutils-v32",
                 "libcutils",
                 "liblog",
                 "libfmq",
@@ -11721,7 +11721,7 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "libhidlbase",
                 "libhidltransport",
-                "libutils",
+                "libutils-v32",
                 "libcutils",
                 "liblog",
                 "libgralloctypes",
@@ -11770,7 +11770,7 @@ cc_prebuilt_binary {
             shared_libs: [
                 "libhidlbase",
                 "libhidltransport",
-                "libutils",
+                "libutils-v32",
                 "libcutils",
                 "liblog",
                 "libgralloctypes",
