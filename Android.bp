@@ -6,6 +6,7 @@ soong_namespace {
     imports: [
         "hardware/sony",
         "vendor/qcom/opensource/display",
+        "vendor/qcom/opensource/commonsys-intf/display",
         "vendor/sony/sm8450-common",
     ],
 }
@@ -7254,7 +7255,7 @@ cc_prebuilt_library_shared {
                 "libcdsprpc",
                 "libbinder_ndk",
                 "libdisplayconfig.qti",
-                "vendor.qti.hardware.display.config-V2-ndk_platform",
+                "vendor.qti.hardware.display.config-V2-ndk",
                 "libz",
                 "libc",
                 "libm",
