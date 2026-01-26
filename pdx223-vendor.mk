@@ -126,7 +126,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx223/proprietary/vendor/etc/acdbdata/waipio_qrd/Sony_workspaceFileXml.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/waipio_qrd/Sony_workspaceFileXml.qwsp \
     vendor/sony/pdx223/proprietary/vendor/etc/camera/camxoverridesettings.txt:$(TARGET_COPY_OUT_VENDOR)/etc/camera/camxoverridesettings.txt \
     vendor/sony/pdx223/proprietary/vendor/etc/display/qdcm_calib_data_1.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_1.json \
-    vendor/sony/pdx223/proprietary/vendor/etc/displayconfig/display_id_129.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_129.xml \
+    vendor/sony/pdx223/proprietary/vendor/etc/displayconfig/display_port_129.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_port_129.xml \
     vendor/sony/pdx223/proprietary/vendor/etc/init/vendor.somc.hardware.camera.provider@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.somc.hardware.camera.provider@1.0-service.rc \
     vendor/sony/pdx223/proprietary/vendor/etc/libese-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libese-nxp.conf \
     vendor/sony/pdx223/proprietary/vendor/etc/libhdr_somc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/libhdr_somc.xml \
