@@ -6,6 +6,28 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/sony/pdx223
 
 PRODUCT_COPY_FILES += \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/XQ-CT44/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/XQ-CT44/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/XQ-CT54/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/XQ-CT54/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/XQ-CT54_EEA/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/XQ-CT54_EEA/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/XQ-CT62/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/XQ-CT62/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/XQ-CT72/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/XQ-CT72/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/XQ-CT72_RU/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/XQ-CT72_RU/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/c000002/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/c000002/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/c000018/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/c000018/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/c000027/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/c000027/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/c000032/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/c000032/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/c001435/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/c001435/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/c001492/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/c001492/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/c001526/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/c001526/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/c001678/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/c001678/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/c001707/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/c001707/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/c001839/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/c001839/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/c001884/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/c001884/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/c999990/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/c999990/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/c999996/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/c999996/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/c999997/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/c999997/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/c999998/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/c999998/config.prop \
+    vendor/sony/pdx223/proprietary/odm/etc/customization/c999999/config.prop:$(TARGET_COPY_OUT_ODM)/etc/customization/c999999/config.prop \
     vendor/sony/pdx223/proprietary/vendor/camera/CAMINO_FW_DATA_AF_0x0104.dat:$(TARGET_COPY_OUT_VENDOR)/camera/CAMINO_FW_DATA_AF_0x0104.dat \
     vendor/sony/pdx223/proprietary/vendor/camera/CAMINO_FW_DATA_OIS_0x0101.dat:$(TARGET_COPY_OUT_VENDOR)/camera/CAMINO_FW_DATA_OIS_0x0101.dat \
     vendor/sony/pdx223/proprietary/vendor/camera/CASTORE_FW_DATA_1_0x16813030.dat:$(TARGET_COPY_OUT_VENDOR)/camera/CASTORE_FW_DATA_1_0x16813030.dat \
